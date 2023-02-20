@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "877315542081",
+    "project_id": "terazza-cfdd1",
+    "storage_bucket": "terazza-cfdd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877315542081:android:7a327d16d42760116f4ac0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877315542081-rdrr3uk0qddnhrjll4b5al4es8aj8vb7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "301165156fd834e523f2831ae5e58d7bb6a3b386"
+          }
+        },
+        {
+          "client_id": "877315542081-rs4iisugqcb2nncbv7uvq0mclmkpvts9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi1arvvNpAsbMPeCoZoke4i_YthwthEjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877315542081-rs4iisugqcb2nncbv7uvq0mclmkpvts9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
